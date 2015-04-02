@@ -1,7 +1,7 @@
 # Capstone Project
 
 # Setting up origin
-Go to https://github.com/kachlikmatt/Capstone
+Go to https://github.com/kachlikmatt/Capstone<br>
 On the far right, click Fork and fork to personal GitHub account
 Create a folder to hold the repository on your personal computer
 Using git bash, cd into that directory and enter these commands:
