@@ -12,3 +12,4 @@ $ git remote add origin git@github.com:cddigi/Capstone.git  #Replace with own fo
 $ git pull origin master
 $ git pull upstream master
 $ git remote set-url --push upstream no_push  #Disables ability to push master to upstream
+
